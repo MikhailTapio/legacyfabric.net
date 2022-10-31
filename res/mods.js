@@ -210,6 +210,7 @@ const mods = [
         "name": "Modern KeyBinding",
         "links": {
             "github": "https://github.com/Nova-Committee/ModernKeyBinding",
+            "curseforge": "https://www.curseforge.com/minecraft/mc-mods/modern-keybinding-fabric",
             "modrinth": "https://modrinth.com/mod/modernkeybinding"
         },
         "working": true,
